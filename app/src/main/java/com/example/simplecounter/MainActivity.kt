@@ -16,6 +16,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //Testing
+
         //Get a reference of the button
         val button = findViewById<Button>(R.id.button)
         //Get reference to our text view
